@@ -33,7 +33,3 @@ Coming to the analysis part, we will carry out the calculations to perform the f
 5. Top 10 ATMs with the highest total amount withdrawn throughout the year
 
 6. Number of failed ATM transactions across various card types
-
-7. Top 10 records with the number of transactions ordered by the ATM_number, ATM_manufacturer, location, weekend_flag and then total_transaction_count, on weekdays and on weekends throughout the year
-
-8. Most active day in each ATMs from location "Vejgaard"
